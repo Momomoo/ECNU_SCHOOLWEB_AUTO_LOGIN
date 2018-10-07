@@ -3,6 +3,6 @@ A small python program for ECNUers to login school web automatically. It  will c
 
 You need to install firefox webdriver in your computer to run the program. firefox webdriver download link:https://www.mozilla.org/en-US/firefox/new/
 
-There are two files packages. The get_connected _to_schoolweb is source code. It can run if you have python environment and all packages needed to import. You can run the auto_login.py by comand line.
+There are two files packages. The get_connected _to_schoolweb is source code. It can run if you have python environment and packages needed. You can run the auto_login.py by comand line.
 
 The auto_login can be used in Windows system without the dependence for python environment.You can click the auto_login.exe to start the program.
